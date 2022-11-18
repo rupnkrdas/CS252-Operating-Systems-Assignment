@@ -45,7 +45,7 @@ Run the the program tracing all the system calls:
   determined via LaunchServices is used to open the specified files.
 
 - **fcntl**  
-  Fcntl() provides for control over descriptors.
+  fcntl() provides for control over descriptors.
 
 - **close**  
   The close() call deletes a descriptor from the per-process object reference table.
